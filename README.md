@@ -2,9 +2,6 @@
 
 ## Estimate Road Geometry from GIS Lines for Road Safety Analysis
 
-![QGIS Plugin Icon Placeholder](path/to/your/plugin_icon.png)
-*(**Note:** Replace `path/to/your/plugin_icon.png` with the actual path to your plugin's icon file in your repository, or remove this line if you don't have one.)*
-
 ## 1. Overview
 
 The **Road Geometry Analyzer** is a QGIS Processing plugin designed to automatically segment road centerlines into distinct **curve** and **tangent (straight)** sections. It addresses the common challenge of lacking detailed road design documents or specialized survey data for geometric analysis. By leveraging existing GIS line data, this plugin provides essential geometric attributes crucial for in-depth road safety studies, infrastructure management, and planning.
