@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# QGIS Plugin Specific
+resources.py # If generated from .qrc
+ui_*.py      # If generated from .ui
+/docs/site/  # If you use MkDocs for local build
+*.zip        # Generated plugin zips
+.qgis_plugin_ci/ # If you use this CI tool
+.vscode/     # VS Code editor files
+.idea/       # PyCharm/IntelliJ idea files
+
+# Operating System Files
+.DS_Store
+Thumbs.db

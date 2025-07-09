@@ -1,0 +1,45 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Road Geometry Analyzer
+qgisMinimumVersion=3.0
+description=Estimate basic road segment geometry (curve/straight) for road safety analysis.
+version=0.1
+author=Hamid Madani
+email=hamidmadani419@gmail.com
+
+about=This plugin estimates the geometric type (curve or straight) of road segments based on vertex positions and curvature calculations. It helps in generating basic geometric attributes for road datasets where such data is missing — especially useful in road safety analysis and risk assessment projects.
+
+repository=https://github.com/madanihamid/RoadGeometryAnalyzer
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=yes
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python, road safety, geometry, analysis, transportation, centerline, curve
+
+category=Analysis
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
