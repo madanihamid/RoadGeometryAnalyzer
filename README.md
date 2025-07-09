@@ -20,7 +20,7 @@ You can install the **Road Geometry Analyzer** plugin in QGIS using one of the f
 
 ### Method A: Install from ZIP (Recommended)
 
-1.  Download the plugin's `.zip` file from the [releases page](LINK_TO_YOUR_RELEASES_PAGE_HERE).
+1.  Download the plugin's `.zip` file from the [releases page](releases).
 2.  Open QGIS.
 3.  Go to `Plugins > Manage and Install Plugins...`.
 4.  Switch to the `Install from ZIP` tab.
