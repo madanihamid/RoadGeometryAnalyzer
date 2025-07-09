@@ -85,5 +85,5 @@ This plugin is licensed under the GNU General Public License version 2 or any la
 ## 8. Author
 
 **Hamid Madani**
-* Email: hamidmadani419
+* Email: hamidmadani419@gmail.com
 * Copyright: (C) 2025 by Hamid Madani
